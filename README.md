@@ -8,6 +8,8 @@
     - Sanjay Mohandas
     - Mohandas Mariappan
 
+- Click here to access the application >> [MoMo Movies](https://momomovies.herokuapp.com)
+
 This is an end-to-end project which deals with the TheMoviesDataset. It serves to build movie recommendations, movie classifications and exploratory analtsis etc.
 
 A big thanks to the Summer 2020 MadeWithML Data Science Incubator for providing us with an opportunity to learn more skills, build applications, and share our work. 
@@ -17,8 +19,6 @@ The MWML Data Science Incubator is a non-profit and community-led effort to crea
 This is a team work of high school senior Sanjay Mohandas and aspiring data scientist Mohandas Mariappan.
 
 Through this incubator, we learned a lot about data science and built an end-to-end project.
-
-Click here to access the application >> [MoMo Movies](https://momomovies.herokuapp.com)
 
 SUMMARY
 ================================================================================
