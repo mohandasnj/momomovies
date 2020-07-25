@@ -3,13 +3,18 @@
 
 [MadeWithML Incubator](https://madewithml.com/incubator/ )
 
+Summer 2020 MadeWithML Data Science Incubator Team Name : MoMo Movies
+Team Members:
+  Sanjay Mohandas
+  Mohandas Mariappan
+
 This is an end-to-end project which deals with the TheMoviesDataset. It serves to build movie recommendations, movie classifications and exploratory analtsis etc.
 
 A big thanks to the Summer 2020 MadeWithML Data Science Incubator for providing us with an opportunity to learn more skills, build applications, and share our work. 
 
 The MWML Data Science Incubator is a non-profit and community-led effort to create a meaningful summer experience for students who lost their summer in-person internship opportunities due covid-19 and also for aspiring data scientists. 
 
-This is a team work of high senior Sanjay Mohandas and aspiring data scientist Mohandas Mariappan.
+This is a team work of high school senior Sanjay Mohandas and aspiring data scientist Mohandas Mariappan.
 
 Through this incubator, we learned a lot about data science and built an end-to-end project.
 
