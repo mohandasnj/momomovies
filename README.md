@@ -3,10 +3,10 @@
 
 [MadeWithML Incubator](https://madewithml.com/incubator/ )
 
-Summer 2020 MadeWithML Data Science Incubator Team Name : MoMo Movies
-Team Members:
-  Sanjay Mohandas
-  Mohandas Mariappan
+- Summer 2020 MadeWithML Data Science Incubator Team Name : MoMo Movies
+- Team Members:
+    - Sanjay Mohandas
+    - Mohandas Mariappan
 
 This is an end-to-end project which deals with the TheMoviesDataset. It serves to build movie recommendations, movie classifications and exploratory analtsis etc.
 
