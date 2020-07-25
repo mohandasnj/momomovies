@@ -46,8 +46,8 @@ purposes under the following conditions:
        revenue-bearing purposes without first obtaining permission
        from Sanjay Mohandas or Mohandas Mariappan .
 
-If you have any further questions or comments, please contact GroupLens
-<mohandasnj@gmail.com>. 
+If you have any further questions or comments, please contact
+<mohandasnj@gmail.com> and/or sunmohandas@gmail.com. 
 
 We picked "The Movies Dataset" and built the following:
 
