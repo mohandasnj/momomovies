@@ -46,7 +46,7 @@ We picked "The Movies Dataset" and built the following:
 ================================================================================
 
 These files contain 1,00,000 anonymous ratings of approximately 5,375 movies 
-made by 671 TheMoviesDatset.
+made by 671 TheMoviesDatset users.
 
 # USAGE LICENSE
 ================================================================================
