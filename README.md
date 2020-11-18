@@ -1,8 +1,4 @@
 
-![Image of MWML Incubatoe](./images/mwml_incubator.png)
-
-[MadeWithML Incubator](https://madewithml.com/incubator/ )
-
 The MWML Data Science Incubator is a non-profit and community-led effort to create a meaningful summer experience for students who lost their summer in-person internship opportunities due covid-19 and also for aspiring data scientists.
 
 This is a team work of high school senior Sanjay Mohandas and aspiring data scientist Mohandas Mariappan.
